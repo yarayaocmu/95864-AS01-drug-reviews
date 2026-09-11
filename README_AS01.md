@@ -1,5 +1,8 @@
 # AS01 — Team project files (Scenario 01, Drugs.com reviews)
 
+Repository: https://github.com/yarayaocmu/95864-AS01-drug-reviews  
+Memo: `report/AS01_memo.pdf`
+
 This folder is the course starter kit (`as01_v02`) plus our own scripts. The starter files are untouched
 so that `main_test.py` still passes; our code lives in the files listed below.
 
