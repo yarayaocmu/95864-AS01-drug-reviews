@@ -1,0 +1,801 @@
+uniqueID,drugName,condition_clean,rating,sentiment_label,review_word_len
+123283,Apri,Birth Control,1,NEGATIVE,77
+9123,Lo Loestrin Fe,Birth Control,5,NEUTRAL,72
+76112,Portia,Birth Control,8,POSITIVE,36
+43177,Sronyx,Birth Control,10,POSITIVE,34
+83837,Ethinyl estradiol / norgestimate,Birth Control,8,POSITIVE,51
+148566,Mirena,Birth Control,9,POSITIVE,123
+133506,Tri-Sprintec,Birth Control,10,POSITIVE,113
+10117,Lo Loestrin Fe,Birth Control,7,POSITIVE,53
+144302,Etonogestrel,Birth Control,1,NEGATIVE,147
+219557,Microgestin Fe 1.5 / 30,Birth Control,9,POSITIVE,62
+84151,Ethinyl estradiol / norgestimate,Birth Control,3,NEGATIVE,139
+37759,Reclipsen,Birth Control,9,POSITIVE,49
+168028,Jolessa,Birth Control,1,NEGATIVE,43
+131082,Levonorgestrel,Birth Control,4,NEGATIVE,124
+26234,Sprintec,Birth Control,9,POSITIVE,48
+123086,Ethinyl estradiol / norgestrel,Birth Control,1,NEGATIVE,42
+104227,Ethinyl estradiol / levonorgestrel,Birth Control,3,NEGATIVE,23
+9876,Lo Loestrin Fe,Birth Control,9,POSITIVE,136
+98504,Nexplanon,Birth Control,4,NEGATIVE,94
+192044,Drospirenone / ethinyl estradiol,Birth Control,1,NEGATIVE,51
+44367,Ethinyl estradiol / norgestimate,Birth Control,5,NEUTRAL,123
+85373,Ethinyl estradiol / norgestimate,Birth Control,9,POSITIVE,110
+216255,Copper,Birth Control,8,POSITIVE,125
+215918,Copper,Birth Control,1,NEGATIVE,143
+49249,Ethinyl estradiol / levonorgestrel,Birth Control,2,NEGATIVE,96
+85435,Ethinyl estradiol / norgestimate,Birth Control,10,POSITIVE,70
+180771,Dienogest / estradiol,Birth Control,10,POSITIVE,72
+6058,Minastrin 24 Fe,Birth Control,8,POSITIVE,74
+130095,Levonorgestrel,Birth Control,10,POSITIVE,141
+148109,Norethindrone,Birth Control,8,POSITIVE,86
+68972,Medroxyprogesterone,Birth Control,1,NEGATIVE,109
+154015,Tarina Fe 1 / 20,Birth Control,1,NEGATIVE,119
+33741,Junel Fe 1 / 20,Birth Control,1,NEGATIVE,135
+74361,Ethinyl estradiol / norethindrone,Birth Control,7,POSITIVE,91
+33995,Junel Fe 1 / 20,Birth Control,7,POSITIVE,128
+6476,Ocella,Birth Control,9,POSITIVE,131
+73221,Ethinyl estradiol / norethindrone,Birth Control,7,POSITIVE,90
+449,Medroxyprogesterone,Birth Control,4,NEGATIVE,55
+227331,Etonogestrel,Birth Control,1,NEGATIVE,149
+147820,Norethindrone,Birth Control,1,NEGATIVE,140
+143177,Etonogestrel,Birth Control,1,NEGATIVE,136
+83997,Ethinyl estradiol / norgestimate,Birth Control,1,NEGATIVE,74
+118715,Drospirenone / ethinyl estradiol,Birth Control,4,NEGATIVE,47
+124473,Skyla,Birth Control,10,POSITIVE,95
+15292,Ethinyl estradiol / norethindrone,Birth Control,8,POSITIVE,145
+97921,Nexplanon,Birth Control,5,NEUTRAL,79
+124572,Skyla,Birth Control,10,POSITIVE,141
+78514,Ethinyl estradiol / norethindrone,Birth Control,10,POSITIVE,41
+104324,Ethinyl estradiol / levonorgestrel,Birth Control,10,POSITIVE,114
+48692,Ethinyl estradiol / levonorgestrel,Birth Control,9,POSITIVE,143
+18135,Ethinyl estradiol / etonogestrel,Birth Control,10,POSITIVE,66
+226467,Etonogestrel,Birth Control,2,NEGATIVE,66
+48742,Ethinyl estradiol / levonorgestrel,Birth Control,3,NEGATIVE,140
+103487,Loestrin 21 1 / 20,Birth Control,10,POSITIVE,28
+73408,Ethinyl estradiol / norethindrone,Birth Control,6,NEUTRAL,78
+203043,Gildess Fe 1 / 20,Birth Control,6,NEUTRAL,144
+107996,Ethinyl estradiol / norelgestromin,Birth Control,8,POSITIVE,129
+49361,Ethinyl estradiol / levonorgestrel,Birth Control,1,NEGATIVE,39
+227775,Etonogestrel,Birth Control,7,POSITIVE,135
+199528,Depo-Provera,Birth Control,10,POSITIVE,52
+48896,Ethinyl estradiol / levonorgestrel,Birth Control,6,NEUTRAL,73
+188356,ParaGard,Birth Control,1,NEGATIVE,141
+43662,LoSeasonique,Birth Control,6,NEUTRAL,70
+138201,Ortho Evra,Birth Control,8,POSITIVE,103
+97993,Nexplanon,Birth Control,3,NEGATIVE,81
+9459,Lo Loestrin Fe,Birth Control,9,POSITIVE,57
+15587,Ethinyl estradiol / norethindrone,Birth Control,10,POSITIVE,104
+72666,Ethinyl estradiol / norethindrone,Birth Control,4,NEGATIVE,110
+110426,Nexplanon,Birth Control,4,NEGATIVE,99
+652,Medroxyprogesterone,Birth Control,1,NEGATIVE,40
+37813,Reclipsen,Birth Control,8,POSITIVE,60
+108014,Ethinyl estradiol / norelgestromin,Birth Control,7,POSITIVE,100
+16526,Ethinyl estradiol / norethindrone,Birth Control,9,POSITIVE,56
+182361,Mirena,Birth Control,10,POSITIVE,91
+107228,Implanon,Birth Control,3,NEGATIVE,63
+148174,Norethindrone,Birth Control,5,NEUTRAL,89
+202953,Gildess Fe 1 / 20,Birth Control,10,POSITIVE,86
+100182,Desogestrel / ethinyl estradiol,Birth Control,5,NEUTRAL,106
+123025,Ethinyl estradiol / norgestrel,Birth Control,10,POSITIVE,146
+216280,Copper,Birth Control,9,POSITIVE,106
+49226,Ethinyl estradiol / levonorgestrel,Birth Control,2,NEGATIVE,137
+215642,Copper,Birth Control,9,POSITIVE,103
+133263,Tri-Sprintec,Birth Control,10,POSITIVE,58
+131420,Generess Fe,Birth Control,5,NEUTRAL,56
+111733,Gianvi,Birth Control,3,NEGATIVE,135
+73039,Ethinyl estradiol / norethindrone,Birth Control,4,NEGATIVE,89
+84525,Ethinyl estradiol / norgestimate,Birth Control,5,NEUTRAL,77
+166925,Levonorgestrel,Birth Control,5,NEUTRAL,140
+166970,Levonorgestrel,Birth Control,10,POSITIVE,144
+98253,Nexplanon,Birth Control,3,NEGATIVE,49
+16281,Ethinyl estradiol / norethindrone,Birth Control,1,NEGATIVE,142
+222550,Kyleena,Birth Control,8,POSITIVE,136
+9442,Lo Loestrin Fe,Birth Control,3,NEGATIVE,138
+17410,Ethinyl estradiol / etonogestrel,Birth Control,10,POSITIVE,96
+73502,Ethinyl estradiol / norethindrone,Birth Control,4,NEGATIVE,79
+165776,Levonorgestrel,Birth Control,9,POSITIVE,61
+32992,Seasonique,Birth Control,1,NEGATIVE,86
+110422,Nexplanon,Birth Control,9,POSITIVE,136
+103798,Ethinyl estradiol / levonorgestrel,Birth Control,1,NEGATIVE,114
+187883,Etonogestrel,Birth Control,4,NEGATIVE,44
+183597,Cymbalta,Depression,9,POSITIVE,138
+225653,Bupropion,Depression,8,POSITIVE,37
+201319,Zoloft,Depression,10,POSITIVE,147
+63844,Sertraline,Depression,9,POSITIVE,133
+93184,Vortioxetine,Depression,9,POSITIVE,98
+93089,Vortioxetine,Depression,1,NEGATIVE,101
+45917,Fluoxetine,Depression,7,POSITIVE,64
+177528,Duloxetine,Depression,8,POSITIVE,116
+171645,Wellbutrin,Depression,5,NEUTRAL,144
+206025,Pristiq,Depression,10,POSITIVE,71
+147146,Alprazolam,Depression,10,POSITIVE,86
+121246,Venlafaxine,Depression,6,NEUTRAL,134
+140965,Escitalopram,Depression,10,POSITIVE,25
+64353,Sertraline,Depression,2,NEGATIVE,132
+141385,Escitalopram,Depression,7,POSITIVE,156
+163528,Mirtazapine,Depression,10,POSITIVE,36
+83366,Paxil,Depression,4,NEGATIVE,62
+93261,Vortioxetine,Depression,5,NEUTRAL,107
+95075,Abilify,Depression,8,POSITIVE,54
+225814,Bupropion,Depression,10,POSITIVE,132
+121949,Venlafaxine,Depression,4,NEGATIVE,52
+183790,Cymbalta,Depression,8,POSITIVE,120
+62753,Citalopram,Depression,9,POSITIVE,21
+6561,Wellbutrin XL,Depression,10,POSITIVE,129
+63874,Sertraline,Depression,4,NEGATIVE,153
+7756,Xanax,Depression,10,POSITIVE,141
+102404,Aripiprazole,Depression,5,NEUTRAL,105
+93962,Trintellix,Depression,7,POSITIVE,133
+225756,Bupropion,Depression,8,POSITIVE,130
+93133,Vortioxetine,Depression,3,NEGATIVE,142
+27705,Lexapro,Depression,3,NEGATIVE,41
+168987,Vilazodone,Depression,8,POSITIVE,30
+141613,Escitalopram,Depression,10,POSITIVE,59
+89619,Celexa,Depression,5,NEUTRAL,63
+176806,Nardil,Depression,8,POSITIVE,39
+92818,Vortioxetine,Depression,10,POSITIVE,131
+55694,Effexor,Depression,7,POSITIVE,115
+45908,Fluoxetine,Depression,9,POSITIVE,56
+205610,Pristiq,Depression,10,POSITIVE,68
+177193,Duloxetine,Depression,1,NEGATIVE,46
+225577,Bupropion,Depression,10,POSITIVE,86
+177391,Duloxetine,Depression,8,POSITIVE,128
+55703,Effexor,Depression,4,NEGATIVE,145
+121462,Venlafaxine,Depression,1,NEGATIVE,129
+205787,Pristiq,Depression,10,POSITIVE,36
+131870,Effexor XR,Depression,8,POSITIVE,130
+186426,Desvenlafaxine,Depression,10,POSITIVE,126
+45670,Fluoxetine,Depression,10,POSITIVE,86
+93220,Vortioxetine,Depression,1,NEGATIVE,73
+225490,Bupropion,Depression,10,POSITIVE,117
+181717,Prozac,Depression,9,POSITIVE,50
+45257,Fluoxetine,Depression,8,POSITIVE,138
+45808,Fluoxetine,Depression,9,POSITIVE,139
+197490,Paroxetine,Depression,3,NEGATIVE,92
+62702,Citalopram,Depression,9,POSITIVE,22
+46307,Modafinil,Depression,10,POSITIVE,47
+120995,Venlafaxine,Depression,9,POSITIVE,142
+224841,Bupropion,Depression,10,POSITIVE,141
+181537,Prozac,Depression,9,POSITIVE,91
+185901,Desvenlafaxine,Depression,6,NEUTRAL,75
+186330,Desvenlafaxine,Depression,6,NEUTRAL,137
+214634,Escitalopram,Depression,1,NEGATIVE,31
+169048,Vilazodone,Depression,10,POSITIVE,23
+211850,Lamotrigine,Depression,1,NEGATIVE,31
+102618,Aripiprazole,Depression,1,NEGATIVE,21
+46946,Emsam,Depression,8,POSITIVE,27
+94005,Trintellix,Depression,3,NEGATIVE,85
+61648,Citalopram,Depression,8,POSITIVE,143
+210631,Mirtazapine,Depression,7,POSITIVE,45
+141845,Escitalopram,Depression,2,NEGATIVE,110
+78165,Zyprexa,Depression,7,POSITIVE,68
+62621,Citalopram,Depression,1,NEGATIVE,25
+64677,Sertraline,Depression,1,NEGATIVE,94
+142099,Escitalopram,Depression,3,NEGATIVE,32
+63869,Sertraline,Depression,1,NEGATIVE,99
+62021,Citalopram,Depression,5,NEUTRAL,28
+3691,Marplan,Depression,9,POSITIVE,119
+64304,Sertraline,Depression,10,POSITIVE,149
+55824,Effexor,Depression,10,POSITIVE,62
+176778,Nardil,Depression,10,POSITIVE,46
+177512,Duloxetine,Depression,1,NEGATIVE,124
+89353,Celexa,Depression,10,POSITIVE,24
+182923,Cymbalta,Depression,9,POSITIVE,117
+213300,Nuvigil,Depression,8,POSITIVE,89
+122205,Venlafaxine,Depression,2,NEGATIVE,86
+70490,Limbitrol,Depression,10,POSITIVE,76
+93450,Vortioxetine,Depression,7,POSITIVE,75
+97413,St. john's wort,Depression,10,POSITIVE,126
+168982,Vilazodone,Depression,8,POSITIVE,115
+126275,Viibryd,Depression,1,NEGATIVE,113
+61952,Citalopram,Depression,9,POSITIVE,98
+225112,Bupropion,Depression,6,NEUTRAL,132
+103038,Aripiprazole,Depression,10,POSITIVE,48
+62497,Citalopram,Depression,10,POSITIVE,107
+161637,Remeron,Depression,10,POSITIVE,130
+177882,Duloxetine,Depression,10,POSITIVE,122
+45552,Fluoxetine,Depression,10,POSITIVE,54
+178483,Duloxetine,Depression,2,NEGATIVE,112
+94308,Trintellix,Depression,9,POSITIVE,45
+93860,Trintellix,Depression,1,NEGATIVE,131
+180308,Diclofenac,Pain,10,POSITIVE,36
+180478,Diclofenac,Pain,10,POSITIVE,131
+91051,Norco,Pain,9,POSITIVE,42
+20714,Nucynta,Pain,10,POSITIVE,137
+43855,Acetaminophen / codeine,Pain,1,NEGATIVE,44
+231160,Zohydro ER,Pain,10,POSITIVE,141
+71923,Tramadol,Pain,10,POSITIVE,102
+72024,Tramadol,Pain,10,POSITIVE,130
+112359,Gabapentin,Pain,6,NEUTRAL,95
+93588,Oxymorphone,Pain,1,NEGATIVE,117
+57465,Oxymorphone,Pain,8,POSITIVE,80
+41411,Acetaminophen / oxycodone,Pain,10,POSITIVE,31
+41250,Acetaminophen / oxycodone,Pain,10,POSITIVE,110
+228351,Butrans,Pain,1,NEGATIVE,35
+204690,Acetaminophen / propoxyphene,Pain,6,NEUTRAL,26
+43560,Hydromorphone,Pain,10,POSITIVE,133
+93774,Morphine,Pain,8,POSITIVE,146
+189523,Oxycodone,Pain,10,POSITIVE,89
+23475,Methadone,Pain,9,POSITIVE,73
+43605,Hydromorphone,Pain,10,POSITIVE,84
+193790,Naloxone / pentazocine,Pain,10,POSITIVE,123
+58181,Acetaminophen / hydrocodone,Pain,10,POSITIVE,29
+41323,Acetaminophen / oxycodone,Pain,10,POSITIVE,28
+193742,Hydrocodone,Pain,1,NEGATIVE,69
+151179,OxyContin,Pain,10,POSITIVE,108
+135859,Percocet,Pain,10,POSITIVE,143
+189510,Oxycodone,Pain,10,POSITIVE,107
+134658,Ketorolac,Pain,10,POSITIVE,37
+193809,Hydrocodone,Pain,1,NEGATIVE,146
+189645,Oxycodone,Pain,10,POSITIVE,149
+164320,Diclofenac,Pain,9,POSITIVE,105
+164592,Diclofenac,Pain,10,POSITIVE,73
+23550,Methadone,Pain,8,POSITIVE,32
+57599,Acetaminophen / hydrocodone,Pain,10,POSITIVE,62
+72239,Tramadol,Pain,8,POSITIVE,109
+90858,Roxicodone,Pain,5,NEUTRAL,154
+206661,Vicoprofen,Pain,9,POSITIVE,95
+41379,Acetaminophen / oxycodone,Pain,10,POSITIVE,28
+117649,Nortriptyline,Pain,10,POSITIVE,71
+118109,Tylox,Pain,9,POSITIVE,70
+134651,Ketorolac,Pain,10,POSITIVE,90
+36716,Fentanyl,Pain,9,POSITIVE,79
+93579,Oxymorphone,Pain,4,NEGATIVE,142
+47661,Tapentadol,Pain,7,POSITIVE,70
+71722,Tramadol,Pain,9,POSITIVE,121
+135803,Percocet,Pain,10,POSITIVE,31
+134689,Ketorolac,Pain,10,POSITIVE,37
+164125,Ibuprofen,Pain,10,POSITIVE,38
+164109,Ibuprofen,Pain,6,NEUTRAL,41
+43218,Hydromorphone,Pain,5,NEUTRAL,39
+69867,Tylenol,Pain,9,POSITIVE,37
+189530,Oxycodone,Pain,9,POSITIVE,87
+205035,Toradol,Pain,7,POSITIVE,133
+56767,Elavil,Pain,8,POSITIVE,33
+204930,Toradol,Pain,9,POSITIVE,98
+180324,Diclofenac,Pain,9,POSITIVE,70
+22713,Lidocaine,Pain,1,NEGATIVE,55
+139703,Etodolac,Pain,4,NEGATIVE,59
+57830,Acetaminophen / hydrocodone,Pain,10,POSITIVE,55
+36654,Fentanyl,Pain,9,POSITIVE,143
+47467,Tapentadol,Pain,3,NEGATIVE,95
+72296,Tramadol,Pain,10,POSITIVE,51
+43415,Hydromorphone,Pain,1,NEGATIVE,41
+87709,Naproxen,Pain,10,POSITIVE,52
+57641,Acetaminophen / hydrocodone,Pain,5,NEUTRAL,21
+56762,Elavil,Pain,10,POSITIVE,30
+139712,Etodolac,Pain,10,POSITIVE,29
+22798,Lidocaine,Pain,9,POSITIVE,48
+36749,Fentanyl,Pain,9,POSITIVE,138
+43489,Hydromorphone,Pain,10,POSITIVE,75
+193935,Dilaudid,Pain,10,POSITIVE,112
+112186,Gabapentin,Pain,8,POSITIVE,101
+218794,Opana ER,Pain,9,POSITIVE,96
+57718,Acetaminophen / hydrocodone,Pain,9,POSITIVE,46
+69572,Buprenorphine,Pain,5,NEUTRAL,136
+193772,Hydrocodone,Pain,1,NEGATIVE,46
+193797,Naloxone / pentazocine,Pain,8,POSITIVE,69
+27075,Ultram,Pain,4,NEGATIVE,37
+47436,Tapentadol,Pain,6,NEUTRAL,136
+43355,Hydromorphone,Pain,4,NEGATIVE,121
+220261,Amitriptyline,Pain,10,POSITIVE,97
+205086,Toradol,Pain,9,POSITIVE,115
+5911,Opana,Pain,2,NEGATIVE,32
+204717,Acetaminophen / propoxyphene,Pain,5,NEUTRAL,92
+57394,Oxymorphone,Pain,9,POSITIVE,117
+72543,Tramadol,Pain,7,POSITIVE,24
+50609,Gabapentin,Pain,9,POSITIVE,78
+205047,Toradol,Pain,7,POSITIVE,20
+209046,Meperidine / promethazine,Pain,9,POSITIVE,58
+43386,Hydromorphone,Pain,8,POSITIVE,98
+57480,Oxymorphone,Pain,10,POSITIVE,37
+41320,Acetaminophen / oxycodone,Pain,8,POSITIVE,146
+50719,Gabapentin,Pain,10,POSITIVE,53
+58059,Acetaminophen / hydrocodone,Pain,8,POSITIVE,62
+193868,Hydrocodone,Pain,10,POSITIVE,120
+92313,Lyrica,Pain,8,POSITIVE,46
+23498,Methadone,Pain,10,POSITIVE,142
+25269,Flector Patch,Pain,10,POSITIVE,65
+71593,Tramadol,Pain,6,NEUTRAL,152
+41213,Acetaminophen / oxycodone,Pain,10,POSITIVE,21
+152973,Doxycycline,Acne,9,POSITIVE,109
+157960,Accutane,Acne,10,POSITIVE,58
+47926,Adapalene,Acne,10,POSITIVE,46
+63551,Epiduo,Acne,10,POSITIVE,93
+153104,Doxycycline,Acne,3,NEGATIVE,124
+47735,Adapalene,Acne,10,POSITIVE,58
+137027,Isotretinoin,Acne,2,NEGATIVE,143
+42046,Tetracycline,Acne,9,POSITIVE,91
+51486,Aczone,Acne,9,POSITIVE,127
+63771,Epiduo,Acne,9,POSITIVE,40
+161904,Tazarotene,Acne,10,POSITIVE,68
+153030,Doxycycline,Acne,6,NEUTRAL,137
+10473,Spironolactone,Acne,5,NEUTRAL,137
+153013,Doxycycline,Acne,5,NEUTRAL,68
+34892,Minocycline,Acne,10,POSITIVE,67
+201991,Benzoyl peroxide / clindamycin,Acne,9,POSITIVE,83
+153471,Doxycycline,Acne,8,POSITIVE,128
+157145,Differin,Acne,8,POSITIVE,124
+157700,Accutane,Acne,1,NEGATIVE,75
+77952,Retin-A,Acne,9,POSITIVE,141
+34825,Minocycline,Acne,1,NEGATIVE,106
+46755,Clindamycin,Acne,10,POSITIVE,121
+44189,Ethinyl estradiol / norgestimate,Acne,9,POSITIVE,42
+179727,Adapalene / benzoyl peroxide,Acne,9,POSITIVE,142
+180838,Solodyn,Acne,7,POSITIVE,80
+10523,Spironolactone,Acne,7,POSITIVE,51
+191932,Drospirenone / ethinyl estradiol,Acne,3,NEGATIVE,64
+34663,Minocycline,Acne,2,NEGATIVE,115
+137118,Isotretinoin,Acne,10,POSITIVE,126
+51743,Aczone,Acne,5,NEUTRAL,112
+153617,Doxycycline,Acne,3,NEGATIVE,57
+161383,Ortho Tri-Cyclen,Acne,1,NEGATIVE,26
+33266,Microgestin Fe 1 / 20,Acne,2,NEGATIVE,87
+180796,Solodyn,Acne,3,NEGATIVE,49
+10559,Spironolactone,Acne,6,NEUTRAL,123
+206727,Duac,Acne,9,POSITIVE,155
+10742,Spironolactone,Acne,9,POSITIVE,118
+12188,Acanya,Acne,10,POSITIVE,142
+159915,Bactrim,Acne,9,POSITIVE,128
+102355,Clindamycin / tretinoin,Acne,10,POSITIVE,132
+150653,Sulfamethoxazole / trimethoprim,Acne,10,POSITIVE,136
+153508,Doxycycline,Acne,9,POSITIVE,121
+137131,Isotretinoin,Acne,10,POSITIVE,149
+60610,Claravis,Acne,3,NEGATIVE,68
+21406,Benzoyl peroxide / erythromycin,Acne,9,POSITIVE,143
+202290,Benzoyl peroxide / clindamycin,Acne,9,POSITIVE,113
+161295,Ortho Tri-Cyclen,Acne,8,POSITIVE,134
+153097,Doxycycline,Acne,5,NEUTRAL,128
+157649,Accutane,Acne,10,POSITIVE,62
+202859,Gildess Fe 1 / 20,Acne,1,NEGATIVE,140
+63712,Epiduo,Acne,9,POSITIVE,68
+179654,Adapalene / benzoyl peroxide,Acne,9,POSITIVE,67
+63711,Epiduo,Acne,9,POSITIVE,122
+34547,Minocycline,Acne,8,POSITIVE,46
+137550,Isotretinoin,Acne,7,POSITIVE,129
+63515,Epiduo,Acne,10,POSITIVE,148
+153209,Doxycycline,Acne,6,NEUTRAL,141
+137232,Isotretinoin,Acne,10,POSITIVE,123
+84542,Ethinyl estradiol / norgestimate,Acne,9,POSITIVE,91
+137095,Isotretinoin,Acne,8,POSITIVE,74
+135151,Dapsone,Acne,8,POSITIVE,138
+84126,Ethinyl estradiol / norgestimate,Acne,5,NEUTRAL,52
+152757,Doxycycline,Acne,8,POSITIVE,79
+63303,Epiduo,Acne,10,POSITIVE,70
+150789,Sulfamethoxazole / trimethoprim,Acne,4,NEGATIVE,78
+15431,Ethinyl estradiol / norethindrone,Acne,10,POSITIVE,22
+47731,Adapalene,Acne,1,NEGATIVE,122
+157754,Accutane,Acne,9,POSITIVE,142
+84768,Ethinyl estradiol / norgestimate,Acne,4,NEGATIVE,145
+179637,Adapalene / benzoyl peroxide,Acne,9,POSITIVE,133
+15856,Ethinyl estradiol / norethindrone,Acne,1,NEGATIVE,70
+179941,Adapalene / benzoyl peroxide,Acne,9,POSITIVE,151
+10685,Spironolactone,Acne,5,NEUTRAL,122
+137127,Isotretinoin,Acne,9,POSITIVE,97
+135107,Dapsone,Acne,9,POSITIVE,136
+63474,Epiduo,Acne,9,POSITIVE,69
+81584,Yaz,Acne,9,POSITIVE,78
+33934,Junel Fe 1 / 20,Acne,7,POSITIVE,114
+136821,Isotretinoin,Acne,10,POSITIVE,136
+63705,Epiduo,Acne,7,POSITIVE,82
+202155,Benzoyl peroxide / clindamycin,Acne,8,POSITIVE,37
+137489,Isotretinoin,Acne,10,POSITIVE,43
+85204,Ethinyl estradiol / norgestimate,Acne,8,POSITIVE,102
+150636,Sulfamethoxazole / trimethoprim,Acne,10,POSITIVE,142
+58779,Azelaic acid,Acne,7,POSITIVE,137
+51493,Aczone,Acne,10,POSITIVE,79
+179581,Adapalene / benzoyl peroxide,Acne,5,NEUTRAL,113
+137206,Isotretinoin,Acne,10,POSITIVE,139
+137210,Isotretinoin,Acne,7,POSITIVE,65
+46748,Clindamycin,Acne,2,NEGATIVE,135
+34613,Minocycline,Acne,6,NEUTRAL,69
+60635,Claravis,Acne,9,POSITIVE,134
+152968,Doxycycline,Acne,10,POSITIVE,98
+221560,Ziana,Acne,1,NEGATIVE,69
+42050,Tetracycline,Acne,10,POSITIVE,46
+10542,Spironolactone,Acne,10,POSITIVE,130
+157899,Accutane,Acne,4,NEGATIVE,165
+136878,Isotretinoin,Acne,10,POSITIVE,141
+34604,Minocycline,Acne,3,NEGATIVE,140
+135001,Dapsone,Acne,9,POSITIVE,91
+156715,Dulaglutide,"Diabetes, Type 2",9,POSITIVE,134
+3561,Insulin detemir,"Diabetes, Type 2",10,POSITIVE,115
+230104,Glipizide,"Diabetes, Type 2",3,NEGATIVE,24
+11641,Trulicity,"Diabetes, Type 2",10,POSITIVE,146
+126363,Xigduo XR,"Diabetes, Type 2",10,POSITIVE,83
+2283,Metformin,"Diabetes, Type 2",8,POSITIVE,123
+178845,Victoza,"Diabetes, Type 2",8,POSITIVE,65
+156707,Dulaglutide,"Diabetes, Type 2",8,POSITIVE,119
+156484,Dulaglutide,"Diabetes, Type 2",5,NEUTRAL,64
+178974,Victoza,"Diabetes, Type 2",10,POSITIVE,93
+86403,Invokana,"Diabetes, Type 2",10,POSITIVE,134
+11823,Trulicity,"Diabetes, Type 2",1,NEGATIVE,65
+148372,Empagliflozin / linagliptin,"Diabetes, Type 2",4,NEGATIVE,45
+82466,Liraglutide,"Diabetes, Type 2",10,POSITIVE,57
+79663,Insulin glargine,"Diabetes, Type 2",10,POSITIVE,131
+11401,Glimepiride,"Diabetes, Type 2",7,POSITIVE,22
+13984,Bydureon,"Diabetes, Type 2",8,POSITIVE,102
+105353,Afrezza,"Diabetes, Type 2",1,NEGATIVE,49
+156507,Dulaglutide,"Diabetes, Type 2",5,NEUTRAL,135
+219585,Synjardy,"Diabetes, Type 2",10,POSITIVE,126
+2422,Metformin,"Diabetes, Type 2",8,POSITIVE,22
+13808,Bydureon,"Diabetes, Type 2",10,POSITIVE,75
+178751,Victoza,"Diabetes, Type 2",9,POSITIVE,42
+13881,Bydureon,"Diabetes, Type 2",9,POSITIVE,122
+184862,Canagliflozin,"Diabetes, Type 2",6,NEUTRAL,99
+32827,Empagliflozin,"Diabetes, Type 2",7,POSITIVE,33
+2327,Metformin,"Diabetes, Type 2",9,POSITIVE,55
+82328,Liraglutide,"Diabetes, Type 2",9,POSITIVE,43
+230082,Glipizide,"Diabetes, Type 2",10,POSITIVE,147
+13832,Bydureon,"Diabetes, Type 2",4,NEGATIVE,77
+198375,Exenatide,"Diabetes, Type 2",5,NEUTRAL,117
+156699,Dulaglutide,"Diabetes, Type 2",8,POSITIVE,123
+230136,Glipizide,"Diabetes, Type 2",9,POSITIVE,79
+75997,Pioglitazone,"Diabetes, Type 2",2,NEGATIVE,27
+103108,Glyburide,"Diabetes, Type 2",9,POSITIVE,60
+178969,Victoza,"Diabetes, Type 2",3,NEGATIVE,126
+2423,Metformin,"Diabetes, Type 2",6,NEUTRAL,140
+179056,Victoza,"Diabetes, Type 2",10,POSITIVE,96
+60881,Kombiglyze XR,"Diabetes, Type 2",3,NEGATIVE,58
+81677,Liraglutide,"Diabetes, Type 2",9,POSITIVE,113
+101145,Actos,"Diabetes, Type 2",2,NEGATIVE,69
+178556,Victoza,"Diabetes, Type 2",10,POSITIVE,81
+184817,Canagliflozin,"Diabetes, Type 2",10,POSITIVE,56
+86436,Invokana,"Diabetes, Type 2",1,NEGATIVE,144
+13869,Bydureon,"Diabetes, Type 2",10,POSITIVE,135
+230103,Glipizide,"Diabetes, Type 2",5,NEUTRAL,135
+79675,Insulin glargine,"Diabetes, Type 2",10,POSITIVE,32
+156536,Dulaglutide,"Diabetes, Type 2",10,POSITIVE,143
+198307,Exenatide,"Diabetes, Type 2",1,NEGATIVE,44
+12924,Glyxambi,"Diabetes, Type 2",8,POSITIVE,126
+184716,Canagliflozin,"Diabetes, Type 2",3,NEGATIVE,140
+156567,Dulaglutide,"Diabetes, Type 2",1,NEGATIVE,40
+13801,Bydureon,"Diabetes, Type 2",9,POSITIVE,123
+82208,Liraglutide,"Diabetes, Type 2",10,POSITIVE,138
+229276,Humulin R U-500 (Concentrated),"Diabetes, Type 2",10,POSITIVE,21
+2072,Metformin,"Diabetes, Type 2",1,NEGATIVE,23
+13862,Bydureon,"Diabetes, Type 2",10,POSITIVE,91
+79583,Avandia,"Diabetes, Type 2",3,NEGATIVE,39
+198317,Exenatide,"Diabetes, Type 2",10,POSITIVE,69
+156531,Dulaglutide,"Diabetes, Type 2",10,POSITIVE,126
+11904,Trulicity,"Diabetes, Type 2",9,POSITIVE,117
+184840,Canagliflozin,"Diabetes, Type 2",10,POSITIVE,108
+86609,Invokana,"Diabetes, Type 2",10,POSITIVE,111
+201924,Sitagliptin,"Diabetes, Type 2",10,POSITIVE,46
+178931,Victoza,"Diabetes, Type 2",10,POSITIVE,78
+156777,Dulaglutide,"Diabetes, Type 2",9,POSITIVE,147
+11947,Trulicity,"Diabetes, Type 2",7,POSITIVE,45
+204267,Tradjenta,"Diabetes, Type 2",1,NEGATIVE,22
+82620,Liraglutide,"Diabetes, Type 2",10,POSITIVE,58
+86616,Invokana,"Diabetes, Type 2",10,POSITIVE,82
+82619,Liraglutide,"Diabetes, Type 2",10,POSITIVE,134
+184739,Canagliflozin,"Diabetes, Type 2",4,NEGATIVE,36
+86526,Invokana,"Diabetes, Type 2",3,NEGATIVE,28
+11915,Trulicity,"Diabetes, Type 2",8,POSITIVE,37
+156579,Dulaglutide,"Diabetes, Type 2",8,POSITIVE,134
+198458,Exenatide,"Diabetes, Type 2",8,POSITIVE,33
+13853,Bydureon,"Diabetes, Type 2",5,NEUTRAL,144
+82540,Liraglutide,"Diabetes, Type 2",9,POSITIVE,56
+156778,Dulaglutide,"Diabetes, Type 2",1,NEGATIVE,139
+86582,Invokana,"Diabetes, Type 2",10,POSITIVE,34
+230100,Glipizide,"Diabetes, Type 2",9,POSITIVE,36
+13841,Bydureon,"Diabetes, Type 2",10,POSITIVE,46
+13956,Bydureon,"Diabetes, Type 2",9,POSITIVE,116
+79634,Insulin glargine,"Diabetes, Type 2",10,POSITIVE,101
+178680,Victoza,"Diabetes, Type 2",10,POSITIVE,138
+178976,Victoza,"Diabetes, Type 2",8,POSITIVE,53
+178925,Victoza,"Diabetes, Type 2",5,NEUTRAL,148
+82602,Liraglutide,"Diabetes, Type 2",9,POSITIVE,49
+136620,Byetta,"Diabetes, Type 2",10,POSITIVE,41
+198476,Exenatide,"Diabetes, Type 2",10,POSITIVE,138
+2023,Metformin,"Diabetes, Type 2",8,POSITIVE,42
+201928,Sitagliptin,"Diabetes, Type 2",10,POSITIVE,58
+178728,Victoza,"Diabetes, Type 2",8,POSITIVE,126
+82246,Liraglutide,"Diabetes, Type 2",10,POSITIVE,131
+178848,Victoza,"Diabetes, Type 2",10,POSITIVE,54
+82599,Liraglutide,"Diabetes, Type 2",9,POSITIVE,149
+82465,Liraglutide,"Diabetes, Type 2",9,POSITIVE,58
+156551,Dulaglutide,"Diabetes, Type 2",5,NEUTRAL,121
+184714,Canagliflozin,"Diabetes, Type 2",1,NEGATIVE,36
+156656,Dulaglutide,"Diabetes, Type 2",6,NEUTRAL,156
+206533,Valsartan,High Blood Pressure,1,NEGATIVE,47
+126377,Carvedilol,High Blood Pressure,6,NEUTRAL,147
+120777,Norvasc,High Blood Pressure,1,NEGATIVE,111
+194276,Nebivolol,High Blood Pressure,6,NEUTRAL,127
+42292,Atenolol,High Blood Pressure,7,POSITIVE,115
+126384,Carvedilol,High Blood Pressure,1,NEGATIVE,129
+114070,Amlodipine,High Blood Pressure,5,NEUTRAL,27
+159638,Hydrochlorothiazide / lisinopril,High Blood Pressure,4,NEGATIVE,49
+32481,Lisinopril,High Blood Pressure,8,POSITIVE,53
+113841,Amlodipine,High Blood Pressure,1,NEGATIVE,126
+119916,Losartan,High Blood Pressure,1,NEGATIVE,137
+32574,Lisinopril,High Blood Pressure,1,NEGATIVE,37
+198180,Metoprolol,High Blood Pressure,8,POSITIVE,53
+112752,Exforge,High Blood Pressure,6,NEUTRAL,32
+196008,Hydralazine,High Blood Pressure,1,NEGATIVE,115
+186859,Lopressor,High Blood Pressure,2,NEGATIVE,106
+65073,Hydrochlorothiazide,High Blood Pressure,9,POSITIVE,137
+119945,Losartan,High Blood Pressure,10,POSITIVE,146
+86741,Amlodipine / benazepril,High Blood Pressure,3,NEGATIVE,25
+119911,Losartan,High Blood Pressure,7,POSITIVE,135
+25186,Diovan,High Blood Pressure,4,NEGATIVE,49
+42321,Atenolol,High Blood Pressure,4,NEGATIVE,63
+126406,Carvedilol,High Blood Pressure,2,NEGATIVE,78
+10388,Spironolactone,High Blood Pressure,1,NEGATIVE,41
+933,Metoprolol Tartrate,High Blood Pressure,10,POSITIVE,56
+41666,Clonidine,High Blood Pressure,1,NEGATIVE,91
+32421,Lisinopril,High Blood Pressure,10,POSITIVE,22
+206527,Valsartan,High Blood Pressure,1,NEGATIVE,84
+32584,Lisinopril,High Blood Pressure,6,NEUTRAL,61
+119853,Losartan,High Blood Pressure,1,NEGATIVE,34
+11362,Telmisartan,High Blood Pressure,10,POSITIVE,70
+41833,Clonidine,High Blood Pressure,8,POSITIVE,86
+32320,Lisinopril,High Blood Pressure,1,NEGATIVE,141
+126417,Carvedilol,High Blood Pressure,1,NEGATIVE,24
+42297,Atenolol,High Blood Pressure,10,POSITIVE,20
+214825,Zestril,High Blood Pressure,9,POSITIVE,105
+65204,Hydrochlorothiazide,High Blood Pressure,1,NEGATIVE,91
+32302,Lisinopril,High Blood Pressure,9,POSITIVE,95
+10480,Spironolactone,High Blood Pressure,8,POSITIVE,129
+120005,Losartan,High Blood Pressure,7,POSITIVE,108
+114143,Amlodipine,High Blood Pressure,5,NEUTRAL,25
+133956,Hydrochlorothiazide / triamterene,High Blood Pressure,5,NEUTRAL,26
+186745,Benicar,High Blood Pressure,4,NEGATIVE,28
+70061,Tenex,High Blood Pressure,5,NEUTRAL,53
+41808,Clonidine,High Blood Pressure,10,POSITIVE,39
+120748,Norvasc,High Blood Pressure,1,NEGATIVE,113
+41819,Clonidine,High Blood Pressure,1,NEGATIVE,36
+34434,Bystolic,High Blood Pressure,1,NEGATIVE,56
+186727,Benicar,High Blood Pressure,10,POSITIVE,68
+197956,Metoprolol,High Blood Pressure,5,NEUTRAL,120
+206522,Valsartan,High Blood Pressure,4,NEGATIVE,137
+174464,Ziac,High Blood Pressure,1,NEGATIVE,57
+119966,Losartan,High Blood Pressure,10,POSITIVE,33
+65230,Bisoprolol / hydrochlorothiazide,High Blood Pressure,1,NEGATIVE,86
+32267,Lisinopril,High Blood Pressure,2,NEGATIVE,136
+32621,Lisinopril,High Blood Pressure,9,POSITIVE,25
+17345,Toprol-XL,High Blood Pressure,5,NEUTRAL,53
+25188,Diovan,High Blood Pressure,2,NEGATIVE,98
+32418,Lisinopril,High Blood Pressure,1,NEGATIVE,34
+119855,Losartan,High Blood Pressure,3,NEGATIVE,102
+34356,Bystolic,High Blood Pressure,10,POSITIVE,49
+58353,Benazepril,High Blood Pressure,7,POSITIVE,99
+34444,Bystolic,High Blood Pressure,6,NEUTRAL,139
+133923,Hydrochlorothiazide / triamterene,High Blood Pressure,10,POSITIVE,68
+181875,Inderal,High Blood Pressure,1,NEGATIVE,20
+194170,Nebivolol,High Blood Pressure,3,NEGATIVE,142
+188996,Olmesartan,High Blood Pressure,10,POSITIVE,69
+2674,Diltiazem,High Blood Pressure,2,NEGATIVE,111
+113939,Amlodipine,High Blood Pressure,1,NEGATIVE,78
+17378,Toprol-XL,High Blood Pressure,8,POSITIVE,23
+18726,Hydrochlorothiazide / losartan,High Blood Pressure,1,NEGATIVE,29
+42312,Atenolol,High Blood Pressure,10,POSITIVE,54
+198185,Metoprolol,High Blood Pressure,1,NEGATIVE,34
+189070,Olmesartan,High Blood Pressure,10,POSITIVE,42
+32432,Lisinopril,High Blood Pressure,5,NEUTRAL,32
+32285,Lisinopril,High Blood Pressure,1,NEGATIVE,121
+198004,Metoprolol,High Blood Pressure,10,POSITIVE,35
+196014,Hydralazine,High Blood Pressure,2,NEGATIVE,46
+41602,Clonidine,High Blood Pressure,5,NEUTRAL,106
+32366,Lisinopril,High Blood Pressure,10,POSITIVE,27
+114014,Amlodipine,High Blood Pressure,3,NEGATIVE,75
+34328,Bystolic,High Blood Pressure,7,POSITIVE,136
+196006,Hydralazine,High Blood Pressure,2,NEGATIVE,53
+208554,Amlodipine / olmesartan,High Blood Pressure,10,POSITIVE,27
+206575,Valsartan,High Blood Pressure,1,NEGATIVE,64
+38106,Aliskiren,High Blood Pressure,9,POSITIVE,29
+136444,Prazosin,High Blood Pressure,5,NEUTRAL,33
+62865,Cozaar,High Blood Pressure,2,NEGATIVE,68
+76456,Azor,High Blood Pressure,5,NEUTRAL,42
+186783,Benicar,High Blood Pressure,9,POSITIVE,57
+32380,Lisinopril,High Blood Pressure,5,NEUTRAL,143
+32290,Lisinopril,High Blood Pressure,8,POSITIVE,123
+119951,Losartan,High Blood Pressure,2,NEGATIVE,40
+114090,Amlodipine,High Blood Pressure,7,POSITIVE,27
+32566,Lisinopril,High Blood Pressure,8,POSITIVE,27
+32336,Lisinopril,High Blood Pressure,2,NEGATIVE,115
+119864,Losartan,High Blood Pressure,9,POSITIVE,26
+119999,Losartan,High Blood Pressure,7,POSITIVE,53
+32375,Lisinopril,High Blood Pressure,8,POSITIVE,32
+114100,Amlodipine,High Blood Pressure,10,POSITIVE,56
+115734,Pravastatin,High Cholesterol,5,NEUTRAL,40
+105139,Evolocumab,High Cholesterol,10,POSITIVE,130
+53288,Ezetimibe,High Cholesterol,2,NEGATIVE,122
+194390,Crestor,High Cholesterol,6,NEUTRAL,113
+194377,Crestor,High Cholesterol,9,POSITIVE,127
+190701,Zetia,High Cholesterol,10,POSITIVE,70
+97700,Simvastatin,High Cholesterol,10,POSITIVE,24
+80459,Fenofibric acid,High Cholesterol,5,NEUTRAL,31
+46115,Repatha,High Cholesterol,10,POSITIVE,61
+117230,Niacin / simvastatin,High Cholesterol,8,POSITIVE,58
+216745,Rosuvastatin,High Cholesterol,3,NEGATIVE,114
+209553,Praluent,High Cholesterol,10,POSITIVE,101
+97707,Simvastatin,High Cholesterol,1,NEGATIVE,129
+97752,Simvastatin,High Cholesterol,2,NEGATIVE,62
+229309,Red yeast rice,High Cholesterol,10,POSITIVE,55
+97743,Simvastatin,High Cholesterol,1,NEGATIVE,70
+58617,Niacin,High Cholesterol,9,POSITIVE,67
+58625,Niacin,High Cholesterol,1,NEGATIVE,75
+10961,Welchol,High Cholesterol,1,NEGATIVE,60
+105136,Evolocumab,High Cholesterol,5,NEUTRAL,83
+78932,Livalo,High Cholesterol,5,NEUTRAL,92
+54304,Slo-Niacin,High Cholesterol,10,POSITIVE,119
+194442,Crestor,High Cholesterol,1,NEGATIVE,48
+42020,Simcor,High Cholesterol,6,NEUTRAL,34
+78936,Livalo,High Cholesterol,10,POSITIVE,43
+97720,Simvastatin,High Cholesterol,3,NEGATIVE,118
+190706,Zetia,High Cholesterol,7,POSITIVE,23
+216736,Rosuvastatin,High Cholesterol,10,POSITIVE,29
+209552,Praluent,High Cholesterol,1,NEGATIVE,122
+216742,Rosuvastatin,High Cholesterol,10,POSITIVE,146
+76068,Ezetimibe / simvastatin,High Cholesterol,10,POSITIVE,55
+97690,Simvastatin,High Cholesterol,1,NEGATIVE,69
+97705,Simvastatin,High Cholesterol,5,NEUTRAL,44
+115725,Pravastatin,High Cholesterol,4,NEGATIVE,43
+115730,Pravastatin,High Cholesterol,5,NEUTRAL,82
+190694,Zetia,High Cholesterol,1,NEGATIVE,30
+194514,Atorvastatin,High Cholesterol,1,NEGATIVE,63
+58591,Niacin,High Cholesterol,10,POSITIVE,79
+105137,Evolocumab,High Cholesterol,9,POSITIVE,65
+97750,Simvastatin,High Cholesterol,1,NEGATIVE,22
+194482,Atorvastatin,High Cholesterol,10,POSITIVE,71
+21616,Pitavastatin,High Cholesterol,3,NEGATIVE,125
+194566,Atorvastatin,High Cholesterol,1,NEGATIVE,40
+10944,Welchol,High Cholesterol,5,NEUTRAL,30
+194440,Crestor,High Cholesterol,10,POSITIVE,52
+190700,Zetia,High Cholesterol,1,NEGATIVE,37
+194570,Atorvastatin,High Cholesterol,8,POSITIVE,25
+58608,Niacin,High Cholesterol,4,NEGATIVE,100
+21658,Pitavastatin,High Cholesterol,10,POSITIVE,66
+209550,Praluent,High Cholesterol,9,POSITIVE,117
+53265,Ezetimibe,High Cholesterol,9,POSITIVE,26
+216759,Rosuvastatin,High Cholesterol,9,POSITIVE,33
+25003,Lipitor,High Cholesterol,1,NEGATIVE,128
+10752,Gemfibrozil,High Cholesterol,9,POSITIVE,128
+216768,Rosuvastatin,High Cholesterol,10,POSITIVE,85
+194454,Atorvastatin,High Cholesterol,1,NEGATIVE,39
+21623,Pitavastatin,High Cholesterol,8,POSITIVE,107
+78921,Livalo,High Cholesterol,9,POSITIVE,104
+194546,Atorvastatin,High Cholesterol,5,NEUTRAL,41
+194396,Crestor,High Cholesterol,3,NEGATIVE,78
+115727,Pravastatin,High Cholesterol,5,NEUTRAL,74
+194371,Crestor,High Cholesterol,1,NEGATIVE,132
+58612,Niacin,High Cholesterol,6,NEUTRAL,48
+194574,Atorvastatin,High Cholesterol,7,POSITIVE,35
+97670,Simvastatin,High Cholesterol,8,POSITIVE,23
+194510,Atorvastatin,High Cholesterol,7,POSITIVE,134
+105127,Evolocumab,High Cholesterol,10,POSITIVE,138
+97687,Simvastatin,High Cholesterol,4,NEGATIVE,38
+194535,Atorvastatin,High Cholesterol,10,POSITIVE,24
+160066,Alirocumab,High Cholesterol,1,NEGATIVE,121
+58593,Niacin,High Cholesterol,9,POSITIVE,65
+97703,Simvastatin,High Cholesterol,1,NEGATIVE,154
+191180,Niaspan,High Cholesterol,5,NEUTRAL,54
+194497,Atorvastatin,High Cholesterol,10,POSITIVE,40
+97702,Simvastatin,High Cholesterol,1,NEGATIVE,106
+97742,Simvastatin,High Cholesterol,9,POSITIVE,78
+53254,Ezetimibe,High Cholesterol,9,POSITIVE,80
+78940,Livalo,High Cholesterol,10,POSITIVE,87
+53278,Ezetimibe,High Cholesterol,1,NEGATIVE,124
+97672,Simvastatin,High Cholesterol,5,NEUTRAL,37
+21671,Pitavastatin,High Cholesterol,9,POSITIVE,107
+194498,Atorvastatin,High Cholesterol,9,POSITIVE,53
+115719,Pravastatin,High Cholesterol,4,NEGATIVE,132
+194573,Atorvastatin,High Cholesterol,1,NEGATIVE,61
+46149,Repatha,High Cholesterol,10,POSITIVE,76
+194399,Crestor,High Cholesterol,10,POSITIVE,48
+97686,Simvastatin,High Cholesterol,5,NEUTRAL,107
+194530,Atorvastatin,High Cholesterol,1,NEGATIVE,52
+190684,Zetia,High Cholesterol,5,NEUTRAL,139
+78918,Livalo,High Cholesterol,9,POSITIVE,147
+10755,Gemfibrozil,High Cholesterol,9,POSITIVE,137
+53271,Ezetimibe,High Cholesterol,3,NEGATIVE,38
+97737,Simvastatin,High Cholesterol,3,NEGATIVE,98
+190699,Zetia,High Cholesterol,1,NEGATIVE,36
+97713,Simvastatin,High Cholesterol,9,POSITIVE,22
+53270,Ezetimibe,High Cholesterol,2,NEGATIVE,68
+194486,Atorvastatin,High Cholesterol,3,NEGATIVE,117
+58620,Niacin,High Cholesterol,6,NEUTRAL,92
+97673,Simvastatin,High Cholesterol,1,NEGATIVE,28
+21613,Pitavastatin,High Cholesterol,1,NEGATIVE,85
+208955,Belsomra,Insomnia,8,POSITIVE,127
+114225,Somnote,Insomnia,9,POSITIVE,36
+170517,Quetiapine,Insomnia,10,POSITIVE,80
+99262,Doxylamine,Insomnia,2,NEGATIVE,132
+170245,Quetiapine,Insomnia,4,NEGATIVE,108
+187339,Chloral hydrate,Insomnia,1,NEGATIVE,96
+170195,Quetiapine,Insomnia,8,POSITIVE,22
+127116,Melatonin,Insomnia,7,POSITIVE,25
+231819,Trazodone,Insomnia,3,NEGATIVE,100
+231528,Trazodone,Insomnia,4,NEGATIVE,65
+231900,Trazodone,Insomnia,10,POSITIVE,40
+170456,Quetiapine,Insomnia,10,POSITIVE,145
+127118,Melatonin,Insomnia,10,POSITIVE,123
+203950,Suvorexant,Insomnia,9,POSITIVE,135
+21436,Zaleplon,Insomnia,10,POSITIVE,36
+231644,Trazodone,Insomnia,9,POSITIVE,108
+231357,Trazodone,Insomnia,10,POSITIVE,134
+208936,Belsomra,Insomnia,1,NEGATIVE,111
+8329,Zolpidem,Insomnia,8,POSITIVE,89
+176159,Lorazepam,Insomnia,9,POSITIVE,38
+16884,Unisom SleepTabs,Insomnia,3,NEGATIVE,85
+170592,Quetiapine,Insomnia,10,POSITIVE,97
+97164,Ambien,Insomnia,8,POSITIVE,54
+220347,Amitriptyline,Insomnia,7,POSITIVE,58
+99220,Doxylamine,Insomnia,10,POSITIVE,48
+8475,Zolpidem,Insomnia,8,POSITIVE,49
+220594,Amitriptyline,Insomnia,9,POSITIVE,135
+161515,Diphenhydramine,Insomnia,5,NEUTRAL,124
+163591,Mirtazapine,Insomnia,10,POSITIVE,77
+170727,Quetiapine,Insomnia,10,POSITIVE,22
+231258,Trazodone,Insomnia,9,POSITIVE,151
+95520,Acetaminophen / diphenhydramine,Insomnia,9,POSITIVE,72
+161357,Diphenhydramine,Insomnia,10,POSITIVE,111
+231409,Trazodone,Insomnia,7,POSITIVE,140
+161441,Diphenhydramine,Insomnia,1,NEGATIVE,31
+231439,Trazodone,Insomnia,1,NEGATIVE,85
+222169,Rozerem,Insomnia,8,POSITIVE,30
+220236,Amitriptyline,Insomnia,8,POSITIVE,38
+119775,Ambien CR,Insomnia,4,NEGATIVE,85
+203951,Suvorexant,Insomnia,2,NEGATIVE,137
+220508,Amitriptyline,Insomnia,5,NEUTRAL,68
+208928,Belsomra,Insomnia,3,NEGATIVE,116
+231588,Trazodone,Insomnia,8,POSITIVE,132
+172388,Clonazepam,Insomnia,1,NEGATIVE,146
+231532,Trazodone,Insomnia,1,NEGATIVE,64
+231443,Trazodone,Insomnia,2,NEGATIVE,94
+127127,Melatonin,Insomnia,10,POSITIVE,26
+112617,Lunesta,Insomnia,5,NEUTRAL,107
+112711,Lunesta,Insomnia,8,POSITIVE,87
+208990,Belsomra,Insomnia,1,NEGATIVE,65
+231740,Trazodone,Insomnia,9,POSITIVE,76
+127309,Melatonin,Insomnia,4,NEGATIVE,43
+219964,Amitriptyline,Insomnia,10,POSITIVE,111
+97268,Ambien,Insomnia,8,POSITIVE,63
+8273,Zolpidem,Insomnia,3,NEGATIVE,101
+176381,Lorazepam,Insomnia,10,POSITIVE,68
+8256,Zolpidem,Insomnia,8,POSITIVE,135
+222168,Rozerem,Insomnia,1,NEGATIVE,36
+8809,Zolpidem,Insomnia,2,NEGATIVE,28
+66886,Seroquel,Insomnia,9,POSITIVE,147
+231745,Trazodone,Insomnia,8,POSITIVE,81
+132669,Doxepin,Insomnia,10,POSITIVE,28
+163580,Mirtazapine,Insomnia,9,POSITIVE,49
+208999,Belsomra,Insomnia,1,NEGATIVE,108
+231680,Trazodone,Insomnia,10,POSITIVE,43
+112652,Lunesta,Insomnia,10,POSITIVE,23
+8216,Zolpidem,Insomnia,10,POSITIVE,29
+132537,Doxepin,Insomnia,1,NEGATIVE,103
+112526,Lunesta,Insomnia,1,NEGATIVE,144
+232050,Trazodone,Insomnia,6,NEUTRAL,53
+231755,Trazodone,Insomnia,9,POSITIVE,117
+97125,Ambien,Insomnia,10,POSITIVE,146
+112579,Lunesta,Insomnia,9,POSITIVE,60
+195047,Restoril,Insomnia,10,POSITIVE,29
+203895,Suvorexant,Insomnia,1,NEGATIVE,148
+97094,Ambien,Insomnia,10,POSITIVE,83
+8476,Zolpidem,Insomnia,10,POSITIVE,46
+223559,Sonata,Insomnia,9,POSITIVE,136
+8672,Zolpidem,Insomnia,8,POSITIVE,112
+75801,Temazepam,Insomnia,2,NEGATIVE,31
+231978,Trazodone,Insomnia,2,NEGATIVE,110
+96828,Ambien,Insomnia,3,NEGATIVE,140
+8274,Zolpidem,Insomnia,9,POSITIVE,39
+8488,Zolpidem,Insomnia,7,POSITIVE,129
+127125,Melatonin,Insomnia,7,POSITIVE,81
+75756,Temazepam,Insomnia,6,NEUTRAL,101
+132583,Doxepin,Insomnia,10,POSITIVE,56
+170338,Quetiapine,Insomnia,10,POSITIVE,31
+21370,Zaleplon,Insomnia,7,POSITIVE,143
+229909,Flurazepam,Insomnia,6,NEUTRAL,26
+8612,Zolpidem,Insomnia,10,POSITIVE,76
+127157,Melatonin,Insomnia,9,POSITIVE,82
+176858,Triazolam,Insomnia,1,NEGATIVE,43
+99224,Doxylamine,Insomnia,1,NEGATIVE,111
+176698,Lorazepam,Insomnia,6,NEUTRAL,44
+231501,Trazodone,Insomnia,1,NEGATIVE,100
+203987,Suvorexant,Insomnia,10,POSITIVE,68
+50791,Gabapentin,Insomnia,10,POSITIVE,57
+21357,Zaleplon,Insomnia,10,POSITIVE,52
+97202,Ambien,Insomnia,9,POSITIVE,92

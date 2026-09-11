@@ -1,0 +1,68 @@
+Loaded 215,063 rows (161,297 train / 53,766 test)
+                      dtype  missing  missing_pct  unique
+uniqueID              int64        0        0.000  215063
+drugName                str        0        0.000    3671
+condition               str     1194        0.555     916
+review                  str        0        0.000  128478
+rating                int64        0        0.000      10
+date         datetime64[us]        0        0.000    3579
+usefulCount           int64        0        0.000     397
+                                               check   count     pct
+0  condition contains scraped HTML '</span>' arti...    1171    0.54
+1   review contains HTML entities (&#039; &amp; ...)  140533   65.35
+2            review wrapped in literal double quotes  215063  100.00
+3      exact duplicate (drugName, condition, review)      83    0.04
+4         duplicate review text (any drug/condition)   86585   40.26
+5                                  condition missing    1194    0.56
+6                        review shorter than 5 words    2210    1.03
+7   review texts appearing >1 times (distinct texts)   86068   40.02
+8    of which listed under >1 drugName (brand/gen...   86049   40.01
+9                 of which listed under >1 condition     485    0.23
+                count  min     max  ...   range  skewness  kurtosis_excess
+rating       215063.0  1.0    10.0  ...     9.0    -0.796           -0.896
+usefulCount  215063.0  0.0  1291.0  ...  1291.0     4.495           56.805
+
+[2 rows x 12 columns]
+           unique  top1_share_pct  ...  values_with_1_row  median_rows_per_value
+drugName   3671.0            2.29  ...              798.0                    6.0
+condition   916.0           17.97  ...              113.0                   11.0
+
+[2 rows x 7 columns]
+{'rows_raw': 215063, 'rows_after_exact_dedup': 214978, 'rows_after_drop_reviews_under_3_words': 214078, 'condition_set_missing_due_to_html_artifact': 1171}
+Saved cleaned dataset: /Users/yaoyuan/Desktop/26 Fall/AMD/AS/AS01/as01_v02/data/clean/reviews_clean.parquet (214078, 19)
+   tlp_label   count    pct
+0  TLP:CLEAR    2967   1.39
+1  TLP:GREEN  157803  73.71
+2  TLP:AMBER   43076  20.12
+3    TLP:RED   10232   4.78
+                           count     min  ...  skewness  kurtosis_excess
+rating                  214078.0     1.0  ...     -0.79            -0.90
+usefulCount             214078.0     0.0  ...      4.49            56.67
+review_char_len         214078.0     8.0  ...      1.02            26.47
+review_word_len         214078.0     3.0  ...      0.94            22.96
+review_sentence_count   214078.0     1.0  ...      0.97             6.95
+drug_review_count       214078.0     1.0  ...      2.24             4.63
+condition_review_count  211720.0     1.0  ...      1.47             0.41
+review_year             214078.0  2008.0  ...     -0.70            -0.76
+
+[8 rows x 12 columns]
+                       rating  usefulCount  ...  drug_review_count  side_effect_flag
+rating                  1.000        0.283  ...             -0.064            -0.051
+usefulCount             0.283        1.000  ...             -0.156            -0.023
+review_word_len         0.008       -0.031  ...              0.224             0.255
+review_sentence_count   0.027        0.011  ...              0.192             0.232
+drug_review_count      -0.064       -0.156  ...              1.000             0.165
+side_effect_flag       -0.051       -0.023  ...              0.165             1.000
+
+[6 rows x 6 columns]
+                 feature  skewness  ...  shapiro_W_log1p     verdict
+0                 rating    -0.792  ...           0.7316  non-normal
+1            usefulCount     4.490  ...           0.9842  non-normal
+2        review_word_len     0.943  ...           0.8772  non-normal
+3        review_char_len     1.016  ...           0.8674  non-normal
+4  review_sentence_count     0.967  ...           0.9516  non-normal
+5      drug_review_count     2.238  ...           0.9666  non-normal
+
+[6 rows x 9 columns]
+
+All Part A outputs written to /Users/yaoyuan/Desktop/26 Fall/AMD/AS/AS01/as01_v02/outputs/part_a

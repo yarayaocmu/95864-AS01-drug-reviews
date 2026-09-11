@@ -1,0 +1,13 @@
+{
+  "rows_clean": 214078,
+  "rows_after_drop_TLP_RED": 203846,
+  "rows_after_text_dedup": 122190,
+  "rows_after_drop_missing_condition": 121012,
+  "n_drugs_total": 3052,
+  "n_drugs_held_out": 305,
+  "written_train": 87414,
+  "written_valid": 10927,
+  "written_test_seen": 10928,
+  "written_test_unseen": 11743,
+  "written_train_balanced": 23752
+}

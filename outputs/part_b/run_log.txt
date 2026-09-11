@@ -1,0 +1,53 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Sample: 800 reviews across 8 conditions
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 27283.90it/s]
+                     strategy  ...                          note
+0                        word  ...             starter tokenizer
+1                 word_nostop  ...             stopwords removed
+2  subword (all-MiniLM-L6-v2)  ...      model max_seq_length=256
+3             fixed_chunk(40)  ...  chunks of words, mean-pooled
+
+[4 rows x 5 columns]
+                   drug                       wordpiece_tokens  n_pieces
+0             metformin                        met ##form ##in         3
+1            lisinopril                    li ##sin ##op ##ril         4
+2          atorvastatin               at ##or ##vas ##tat ##in         5
+3            amlodipine                    am ##lo ##di ##pine         4
+4            sertraline                       ser ##tral ##ine         3
+5            gabapentin                    ga ##ba ##pen ##tin         4
+6        levonorgestrel                lev ##ono ##rge ##strel         4
+7   hydrochlorothiazide  hydro ##ch ##lor ##oth ##ia ##zi ##de         7
+8             ibuprofen                     ib ##up ##ro ##fen         4
+9               insulin                                insulin         1
+10              aspirin                          as ##pi ##rin         3
+11             warfarin                         war ##far ##in         3
+               dimension  fraction_zero_entries
+bow                 5092                 0.9878
+tfidf               5092                 0.9878
+bow_nostop          4945                 0.9924
+tfidf_nostop        4945                 0.9924
+dense                384                 0.0000
+dense_chunked        384                 0.0000
+               cond_nn1_match  cond_nn5_majority  ...  cond_effect_d  sent_effect_d
+method                                            ...                              
+bow                    0.3850             0.4375  ...         0.1828         0.0169
+tfidf                  0.6475             0.7425  ...         0.4826         0.0354
+bow_nostop             0.6300             0.7250  ...         0.7520         0.0415
+tfidf_nostop           0.7188             0.8075  ...         0.7810         0.0408
+dense                  0.8588             0.8888  ...         1.2877         0.0034
+dense_chunked          0.8012             0.8412  ...         1.0736        -0.0051
+chance_level           0.1250             0.1250  ...            NaN            NaN
+
+[7 rows x 6 columns]
+method               dense  tfidf
+condition                        
+Acne                  0.92   0.72
+Birth Control         0.82   0.78
+Depression            0.81   0.54
+Diabetes, Type 2      0.87   0.66
+High Blood Pressure   0.83   0.43
+High Cholesterol      0.87   0.54
+Insomnia              0.88   0.83
+Pain                  0.87   0.68
+
+Part B outputs written to /Users/yaoyuan/Desktop/26 Fall/AMD/AS/AS01/as01_v02/outputs/part_b

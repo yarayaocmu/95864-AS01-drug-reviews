@@ -1,0 +1,22 @@
+| condition                 |   count |
+|:--------------------------|--------:|
+| Birth Control             |   38436 |
+| Depression                |   12164 |
+| Pain                      |    8245 |
+| Anxiety                   |    7812 |
+| Acne                      |    7435 |
+| Bipolar Disorde           |    5604 |
+| Insomnia                  |    4904 |
+| Weight Loss               |    4857 |
+| Obesity                   |    4757 |
+| ADHD                      |    4509 |
+| Diabetes, Type 2          |    3362 |
+| Emergency Contraception   |    3290 |
+| High Blood Pressure       |    3104 |
+| Vaginal Yeast Infection   |    3085 |
+| Abnormal Uterine Bleeding |    2744 |
+| Bowel Preparation         |    2498 |
+| Smoking Cessation         |    2440 |
+| ibromyalgia               |    2370 |
+| Migraine                  |    2277 |
+| Anxiety and Stress        |    2236 |

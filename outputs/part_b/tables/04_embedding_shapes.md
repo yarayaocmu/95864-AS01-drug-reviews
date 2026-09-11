@@ -1,0 +1,8 @@
+|               |   dimension |   fraction_zero_entries |
+|:--------------|------------:|------------------------:|
+| bow           |        5092 |                  0.9878 |
+| tfidf         |        5092 |                  0.9878 |
+| bow_nostop    |        4945 |                  0.9924 |
+| tfidf_nostop  |        4945 |                  0.9924 |
+| dense         |         384 |                  0      |
+| dense_chunked |         384 |                  0      |

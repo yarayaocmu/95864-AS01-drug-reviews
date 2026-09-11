@@ -1,0 +1,11 @@
+check,count,pct
+condition contains scraped HTML '</span>' artifact,1171,0.54
+review contains HTML entities (&#039; &amp; ...),140533,65.35
+review wrapped in literal double quotes,215063,100.0
+"exact duplicate (drugName, condition, review)",83,0.04
+duplicate review text (any drug/condition),86585,40.26
+condition missing,1194,0.56
+review shorter than 5 words,2210,1.03
+review texts appearing >1 times (distinct texts),86068,40.02
+  of which listed under >1 drugName (brand/generic),86049,40.01
+  of which listed under >1 condition,485,0.23

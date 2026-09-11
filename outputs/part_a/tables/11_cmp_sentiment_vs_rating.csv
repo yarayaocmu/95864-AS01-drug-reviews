@@ -1,0 +1,4 @@
+sentiment_label,count,min,max,mean
+NEGATIVE,53450,1,4,1.87
+NEUTRAL,19138,5,6,5.44
+POSITIVE,141490,7,10,9.12

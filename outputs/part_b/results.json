@@ -1,0 +1,179 @@
+{
+  "config": {
+    "per_condition": 100,
+    "dense_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "chunk_size": 40,
+    "seed": 42
+  },
+  "conditions": [
+    "Birth Control",
+    "Depression",
+    "Pain",
+    "Acne",
+    "Diabetes, Type 2",
+    "High Blood Pressure",
+    "High Cholesterol",
+    "Insomnia"
+  ],
+  "n_sample": 800,
+  "sample_sentiment_dist": {
+    "NEGATIVE": 232,
+    "NEUTRAL": 92,
+    "POSITIVE": 476
+  },
+  "subword_per_word_ratio_mean": 1.2625792469922865,
+  "reviews_truncated_by_dense_model": 0,
+  "reviews_truncated_pct": 0.0,
+  "stopword_share_mean": 0.4945020770721895,
+  "evaluation": [
+    {
+      "method": "bow",
+      "cond_nn1_match": 0.385,
+      "cond_nn5_majority": 0.4375,
+      "sent_nn1_match": 0.5,
+      "sent_nn5_majority": 0.5525,
+      "cond_within_mean": 0.3817,
+      "cond_between_mean": 0.3578,
+      "cond_gap": 0.0239,
+      "cond_effect_d": 0.1828,
+      "sent_gap": 0.0022,
+      "sent_effect_d": 0.0169,
+      "pairs_mean": 0.3608,
+      "pairs_median": 0.3661,
+      "pairs_min": 0.0,
+      "pairs_max": 0.7703
+    },
+    {
+      "method": "tfidf",
+      "cond_nn1_match": 0.6475,
+      "cond_nn5_majority": 0.7425,
+      "sent_nn1_match": 0.5688,
+      "sent_nn5_majority": 0.62,
+      "cond_within_mean": 0.1203,
+      "cond_between_mean": 0.0955,
+      "cond_gap": 0.0249,
+      "cond_effect_d": 0.4826,
+      "sent_gap": 0.0017,
+      "sent_effect_d": 0.0354,
+      "pairs_mean": 0.0986,
+      "pairs_median": 0.0941,
+      "pairs_min": 0.0,
+      "pairs_max": 0.4842
+    },
+    {
+      "method": "bow_nostop",
+      "cond_nn1_match": 0.63,
+      "cond_nn5_majority": 0.725,
+      "sent_nn1_match": 0.5362,
+      "sent_nn5_majority": 0.605,
+      "cond_within_mean": 0.1032,
+      "cond_between_mean": 0.0558,
+      "cond_gap": 0.0474,
+      "cond_effect_d": 0.752,
+      "sent_gap": 0.0023,
+      "sent_effect_d": 0.0415,
+      "pairs_mean": 0.0617,
+      "pairs_median": 0.0508,
+      "pairs_min": 0.0,
+      "pairs_max": 0.493
+    },
+    {
+      "method": "tfidf_nostop",
+      "cond_nn1_match": 0.7188,
+      "cond_nn5_majority": 0.8075,
+      "sent_nn1_match": 0.5638,
+      "sent_nn5_majority": 0.6025,
+      "cond_within_mean": 0.0562,
+      "cond_between_mean": 0.0271,
+      "cond_gap": 0.0292,
+      "cond_effect_d": 0.781,
+      "sent_gap": 0.0013,
+      "sent_effect_d": 0.0408,
+      "pairs_mean": 0.0307,
+      "pairs_median": 0.0234,
+      "pairs_min": 0.0,
+      "pairs_max": 0.5059
+    },
+    {
+      "method": "dense",
+      "cond_nn1_match": 0.8588,
+      "cond_nn5_majority": 0.8888,
+      "sent_nn1_match": 0.5712,
+      "sent_nn5_majority": 0.615,
+      "cond_within_mean": 0.4673,
+      "cond_between_mean": 0.3207,
+      "cond_gap": 0.1465,
+      "cond_effect_d": 1.2877,
+      "sent_gap": 0.0004,
+      "sent_effect_d": 0.0034,
+      "pairs_mean": 0.3389,
+      "pairs_median": 0.3339,
+      "pairs_min": -0.1726,
+      "pairs_max": 0.8792
+    },
+    {
+      "method": "dense_chunked",
+      "cond_nn1_match": 0.8012,
+      "cond_nn5_majority": 0.8412,
+      "sent_nn1_match": 0.5775,
+      "sent_nn5_majority": 0.6312,
+      "cond_within_mean": 0.496,
+      "cond_between_mean": 0.3663,
+      "cond_gap": 0.1297,
+      "cond_effect_d": 1.0736,
+      "sent_gap": -0.0006,
+      "sent_effect_d": -0.0051,
+      "pairs_mean": 0.3823,
+      "pairs_median": 0.3786,
+      "pairs_min": -0.1057,
+      "pairs_max": 0.888
+    },
+    {
+      "method": "chance_level",
+      "cond_nn1_match": 0.125,
+      "cond_nn5_majority": 0.125,
+      "sent_nn1_match": 0.595,
+      "sent_nn5_majority": 0.595,
+      "cond_within_mean": NaN,
+      "cond_between_mean": NaN,
+      "cond_gap": NaN,
+      "cond_effect_d": NaN,
+      "sent_gap": NaN,
+      "sent_effect_d": NaN,
+      "pairs_mean": NaN,
+      "pairs_median": NaN,
+      "pairs_min": NaN,
+      "pairs_max": NaN
+    }
+  ],
+  "tokenization_stats": [
+    {
+      "strategy": "word",
+      "units_per_review_mean": 85.88,
+      "units_per_review_median": 83.0,
+      "vocab_size": 5092,
+      "note": "starter tokenizer"
+    },
+    {
+      "strategy": "word_nostop",
+      "units_per_review_mean": 42.82,
+      "units_per_review_median": 42.0,
+      "vocab_size": 4945,
+      "note": "stopwords removed"
+    },
+    {
+      "strategy": "subword (all-MiniLM-L6-v2)",
+      "units_per_review_mean": 108.0,
+      "units_per_review_median": 103.5,
+      "vocab_size": 4996,
+      "note": "model max_seq_length=256"
+    },
+    {
+      "strategy": "fixed_chunk(40)",
+      "units_per_review_mean": 2.62,
+      "units_per_review_median": 3.0,
+      "vocab_size": "-",
+      "note": "chunks of words, mean-pooled"
+    }
+  ]
+}

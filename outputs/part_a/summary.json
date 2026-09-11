@@ -1,0 +1,290 @@
+{
+  "n_observations": 215063,
+  "n_train": 161297,
+  "n_test": 53766,
+  "n_features_original": 7,
+  "feature_profile": {
+    "uniqueID": {
+      "dtype": "int64",
+      "missing": 0,
+      "missing_pct": 0.0,
+      "unique": 215063
+    },
+    "drugName": {
+      "dtype": "str",
+      "missing": 0,
+      "missing_pct": 0.0,
+      "unique": 3671
+    },
+    "condition": {
+      "dtype": "str",
+      "missing": 1194,
+      "missing_pct": 0.555,
+      "unique": 916
+    },
+    "review": {
+      "dtype": "str",
+      "missing": 0,
+      "missing_pct": 0.0,
+      "unique": 128478
+    },
+    "rating": {
+      "dtype": "int64",
+      "missing": 0,
+      "missing_pct": 0.0,
+      "unique": 10
+    },
+    "date": {
+      "dtype": "datetime64[us]",
+      "missing": 0,
+      "missing_pct": 0.0,
+      "unique": 3579
+    },
+    "usefulCount": {
+      "dtype": "int64",
+      "missing": 0,
+      "missing_pct": 0.0,
+      "unique": 397
+    }
+  },
+  "data_quality": [
+    {
+      "check": "condition contains scraped HTML '</span>' artifact",
+      "count": 1171,
+      "pct": 0.54
+    },
+    {
+      "check": "review contains HTML entities (&#039; &amp; ...)",
+      "count": 140533,
+      "pct": 65.35
+    },
+    {
+      "check": "review wrapped in literal double quotes",
+      "count": 215063,
+      "pct": 100.0
+    },
+    {
+      "check": "exact duplicate (drugName, condition, review)",
+      "count": 83,
+      "pct": 0.04
+    },
+    {
+      "check": "duplicate review text (any drug/condition)",
+      "count": 86585,
+      "pct": 40.26
+    },
+    {
+      "check": "condition missing",
+      "count": 1194,
+      "pct": 0.56
+    },
+    {
+      "check": "review shorter than 5 words",
+      "count": 2210,
+      "pct": 1.03
+    },
+    {
+      "check": "review texts appearing >1 times (distinct texts)",
+      "count": 86068,
+      "pct": 40.02
+    },
+    {
+      "check": "  of which listed under >1 drugName (brand/generic)",
+      "count": 86049,
+      "pct": 40.01
+    },
+    {
+      "check": "  of which listed under >1 condition",
+      "count": 485,
+      "pct": 0.23
+    }
+  ],
+  "categorical_longtail": {
+    "drugName": {
+      "unique": 3671.0,
+      "top1_share_pct": 2.29,
+      "top10_share_pct": 13.33,
+      "top50_share_pct": 32.99,
+      "values_with_<=5_rows": 1783.0,
+      "values_with_1_row": 798.0,
+      "median_rows_per_value": 6.0
+    },
+    "condition": {
+      "unique": 916.0,
+      "top1_share_pct": 17.97,
+      "top10_share_pct": 46.16,
+      "top50_share_pct": 76.88,
+      "values_with_<=5_rows": 341.0,
+      "values_with_1_row": 113.0,
+      "median_rows_per_value": 11.0
+    }
+  },
+  "cleaning": {
+    "rows_raw": 215063,
+    "rows_after_exact_dedup": 214978,
+    "rows_after_drop_reviews_under_3_words": 214078,
+    "condition_set_missing_due_to_html_artifact": 1171
+  },
+  "n_features_after_engineering": 19,
+  "engineered_features": [
+    "condition_clean",
+    "review_char_len",
+    "review_word_len",
+    "review_sentence_count",
+    "sentiment_label",
+    "review_year",
+    "side_effect_flag",
+    "drug_review_count",
+    "condition_review_count",
+    "is_chronic_condition",
+    "tlp_label"
+  ],
+  "comparisons": {
+    "sideeffect_vs_rating": {
+      "0": {
+        "count": 96148,
+        "mean": 7.105,
+        "median": 9.0,
+        "std": 3.312
+      },
+      "1": {
+        "count": 117930,
+        "mean": 6.885,
+        "median": 8.0,
+        "std": 3.244
+      }
+    },
+    "chronic_vs_rating": {
+      "0": {
+        "count": 165581,
+        "mean": 6.939,
+        "median": 8.0,
+        "std": 3.299
+      },
+      "1": {
+        "count": 48497,
+        "mean": 7.139,
+        "median": 8.0,
+        "std": 3.193
+      }
+    },
+    "spearman": {
+      "rating": {
+        "rating": 1.0,
+        "usefulCount": 0.283,
+        "review_word_len": 0.008,
+        "review_sentence_count": 0.027,
+        "drug_review_count": -0.064,
+        "side_effect_flag": -0.051
+      },
+      "usefulCount": {
+        "rating": 0.283,
+        "usefulCount": 1.0,
+        "review_word_len": -0.031,
+        "review_sentence_count": 0.011,
+        "drug_review_count": -0.156,
+        "side_effect_flag": -0.023
+      },
+      "review_word_len": {
+        "rating": 0.008,
+        "usefulCount": -0.031,
+        "review_word_len": 1.0,
+        "review_sentence_count": 0.807,
+        "drug_review_count": 0.224,
+        "side_effect_flag": 0.255
+      },
+      "review_sentence_count": {
+        "rating": 0.027,
+        "usefulCount": 0.011,
+        "review_word_len": 0.807,
+        "review_sentence_count": 1.0,
+        "drug_review_count": 0.192,
+        "side_effect_flag": 0.232
+      },
+      "drug_review_count": {
+        "rating": -0.064,
+        "usefulCount": -0.156,
+        "review_word_len": 0.224,
+        "review_sentence_count": 0.192,
+        "drug_review_count": 1.0,
+        "side_effect_flag": 0.165
+      },
+      "side_effect_flag": {
+        "rating": -0.051,
+        "usefulCount": -0.023,
+        "review_word_len": 0.255,
+        "review_sentence_count": 0.232,
+        "drug_review_count": 0.165,
+        "side_effect_flag": 1.0
+      }
+    }
+  },
+  "normality": [
+    {
+      "feature": "rating",
+      "skewness": -0.792,
+      "kurtosis_excess": -0.901,
+      "shapiro_W_n5000": 0.8033,
+      "shapiro_p": 2.83e-61,
+      "dagostino_K2": 47197.2,
+      "dagostino_p": 0.0,
+      "shapiro_W_log1p": 0.7316,
+      "verdict": "non-normal"
+    },
+    {
+      "feature": "usefulCount",
+      "skewness": 4.49,
+      "kurtosis_excess": 56.665,
+      "shapiro_W_n5000": 0.6417,
+      "shapiro_p": 4.13e-73,
+      "dagostino_K2": 210815.4,
+      "dagostino_p": 0.0,
+      "shapiro_W_log1p": 0.9842,
+      "verdict": "non-normal"
+    },
+    {
+      "feature": "review_word_len",
+      "skewness": 0.943,
+      "kurtosis_excess": 22.964,
+      "shapiro_W_n5000": 0.9495,
+      "shapiro_p": 2.07e-38,
+      "dagostino_K2": 78031.9,
+      "dagostino_p": 0.0,
+      "shapiro_W_log1p": 0.8772,
+      "verdict": "non-normal"
+    },
+    {
+      "feature": "review_char_len",
+      "skewness": 1.016,
+      "kurtosis_excess": 26.469,
+      "shapiro_W_n5000": 0.9344,
+      "shapiro_p": 2.18e-42,
+      "dagostino_K2": 83798.1,
+      "dagostino_p": 0.0,
+      "shapiro_W_log1p": 0.8674,
+      "verdict": "non-normal"
+    },
+    {
+      "feature": "review_sentence_count",
+      "skewness": 0.967,
+      "kurtosis_excess": 6.951,
+      "shapiro_W_n5000": 0.9619,
+      "shapiro_p": 2.41e-34,
+      "dagostino_K2": 53776.6,
+      "dagostino_p": 0.0,
+      "shapiro_W_log1p": 0.9516,
+      "verdict": "non-normal"
+    },
+    {
+      "feature": "drug_review_count",
+      "skewness": 2.238,
+      "kurtosis_excess": 4.629,
+      "shapiro_W_n5000": 0.6967,
+      "shapiro_p": 1.02e-69,
+      "dagostino_K2": 93497.6,
+      "dagostino_p": 0.0,
+      "shapiro_W_log1p": 0.9666,
+      "verdict": "non-normal"
+    }
+  ]
+}

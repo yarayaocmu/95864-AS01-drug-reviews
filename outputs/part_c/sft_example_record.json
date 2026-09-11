@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a clinical decision-support assistant for clinicians and pharmacists. Read a patient's self-reported medication experience and classify it as POSITIVE, NEUTRAL, or NEGATIVE. Answer with the label only. This is not medical advice and does not replace a clinician's judgement."
+    },
+    {
+      "role": "user",
+      "content": "Drug: Pregabalin\nCondition: Diabetic Peripheral Neuropathy\nPatient report: \"Started taking Lyrica yesterday for severe diabetic neuropathy in both feet and lower legs. I am currently on Suboxone for a 15 year addiction to opiates and was concerned that Lyrica wouldn't work because my body is so screwed up from all the years of opiate use and most medications do not work well for me. Thirty minutes after the first dose I noticed a significant improvement in the neuropathic pain. My bedtime dose was another 75 milligram capsule and I slept better than I have slept in months! This medicine has been a God send for me so far. Hoping that it continues to work well for me! Thanks Pfizer!\""
+    },
+    {
+      "role": "assistant",
+      "content": "POSITIVE"
+    }
+  ],
+  "meta": {
+    "uniqueID": 19525,
+    "rating": 10,
+    "condition": "Diabetic Peripheral Neuropathy",
+    "is_chronic": 0,
+    "tlp": "TLP:GREEN"
+  }
+}

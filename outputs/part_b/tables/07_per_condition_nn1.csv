@@ -1,0 +1,9 @@
+condition,dense,tfidf
+Acne,0.92,0.72
+Birth Control,0.82,0.78
+Depression,0.81,0.54
+"Diabetes, Type 2",0.87,0.66
+High Blood Pressure,0.83,0.43
+High Cholesterol,0.87,0.54
+Insomnia,0.88,0.83
+Pain,0.87,0.68

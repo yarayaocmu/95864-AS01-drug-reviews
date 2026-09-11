@@ -1,0 +1,10 @@
+| condition           | top_tfidf_terms                                               |
+|:--------------------|:--------------------------------------------------------------|
+| Birth Control       | i, the, and, my, it, was, a, to, period, have, pill, this     |
+| Depression          | i, and, to, the, it, depression, was, a, my, for, of, anxiety |
+| Pain                | pain, i, the, to, and, a, for, my, have, it, was, me          |
+| Acne                | i, acne, and, my, it, the, a, skin, to, on, was, but          |
+| Diabetes, Type 2    | i, the, to, and, my, have, a, in, was, on, sugar, it          |
+| High Blood Pressure | i, pressure, my, and, the, to, blood, it, a, bp, was, of      |
+| High Cholesterol    | i, cholesterol, and, to, my, the, a, of, it, for, have, was   |
+| Insomnia            | i, sleep, it, and, to, night, the, a, ambien, for, me, have   |

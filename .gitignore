@@ -1,0 +1,20 @@
+# environment / secrets
+.venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+
+# large data and models (not redistributed; see README_AS01.md for download steps)
+data/raw/
+data/clean/
+data/sft/
+models/
+
+# LaTeX build files
+report/*.aux
+report/*.log
+report/*.out
+report/*.fls
+report/*.fdb_latexmk
+report/*.synctex.gz
